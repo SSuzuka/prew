@@ -1,0 +1,9 @@
+# Rojo build output
+build/
+sourcemap.json
+
+# Roblox binary files (source of truth = src/*.luau)
+*.rbxl
+*.rbxlx
+*.rbxm
+*.rbxmx
